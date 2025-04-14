@@ -6,8 +6,8 @@ from pyrogram import Client, filters, types
 # लॉगिंग कॉन्फ़िगर करें
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-API_ID = 27392387
-API_HASH = "37ee47c18c8be62716a27335a771e7da"
+API_ID = 28148293
+API_HASH = "32ce81ffdd4684a856370eccf62b1f80"
 BOT_TOKEN = "7828770858:AAH78_btTyPNvRb6rESFKQT6Br0QT4Esh6w"
 LOG_CHANNEL_ID = -1002479013444
 GROUP_CHAT_ID = -1002661534796
